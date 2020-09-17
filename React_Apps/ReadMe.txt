@@ -1,0 +1,1 @@
+I have created this folder to store all the React apps that I create for testing purposes. 
